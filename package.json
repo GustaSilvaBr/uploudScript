@@ -1,0 +1,15 @@
+{
+  "name": "uploud_script_football",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploudWorldCupData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "firestore-export-import": "^1.3.5"
+  }
+}
